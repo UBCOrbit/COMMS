@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=crossed_dipole_matching Member=P1
+Added Component: Designator=J?(CON-SMA-SMD-RA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revB, Oct-2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMA Female Right Angle, Surface Mount Connector, 7 x 7 mm Body"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CON-SMA-SMD-RA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Oct-2010"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=crossed_dipole_matching Member=Component J? CONSMA002-SMD

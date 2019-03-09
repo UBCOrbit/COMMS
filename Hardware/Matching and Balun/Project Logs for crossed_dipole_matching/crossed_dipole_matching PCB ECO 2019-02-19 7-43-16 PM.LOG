@@ -1,0 +1,9 @@
+Added Component: Designator=P?(CON-REVSMA-EDGE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revB, Jul-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMA Male Edge Mount Connector for 0.062" Thick Board, 6.35 x 6.35 mm Body"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CON-REVSMA-EDGE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Jul-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Pads complies with manufacturer's recommendation."; VariantName = "[No Variations]"
+Added Class: Name=crossed_dipole_matching
+Added Room: Name=crossed_dipole_matching
